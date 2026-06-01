@@ -7,6 +7,7 @@
 - [x] Create program_3/modules/pet.py with extended Pet (age validation in set_age, get_profile())
 - [x] Create program_3/main.py prompting user for 2 pets with re-prompt loop on invalid age
 - [ ] Run python main.py for each program and verify readable output
-- [ ] Add milestone Git commits (feat/fix/refactor/docs) per logical step
+- [x] Add milestone Git commits (feat/fix/refactor/docs) per logical step
+
 
 
