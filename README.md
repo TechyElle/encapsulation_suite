@@ -104,4 +104,9 @@ encapsulation_suite/
 5. **Create demo video** showing program execution
 
 ---
-⚠️ For educational purposes only. Created for the PUP Object-Oriented Programming course.
+
+<div align="center">
+
+⚠️ *For educational purposes only. Created for the PUP Object-Oriented Programming course.*
+
+</div>
