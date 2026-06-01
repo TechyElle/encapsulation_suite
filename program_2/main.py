@@ -33,14 +33,13 @@ def main():
 
     print("\n--- Race Results ---")
     if max_speed_car_1 > max_speed_car_2:
-        winner_driver_name = car_1._driver_name
+        winner_driver_name = car_1.get_driver_name()
         print(f"Winner: {winner_driver_name} with {max_speed_car_1} mph")
     elif max_speed_car_2 > max_speed_car_1:
-        winner_driver_name = car_2._driver_name
+        winner_driver_name = car_2.get_driver_name()
         print(f"Winner: {winner_driver_name} with {max_speed_car_2} mph")
     else:
         print(f"It's a tie! Both reached {max_speed_car_1} mph")
-
 
 
 if __name__ == "__main__":

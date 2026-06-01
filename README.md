@@ -104,5 +104,3 @@ encapsulation_suite/
 5. **Create demo video** showing program execution
 
 ---
-
-*Project follows the VibeCheck safety layer protocol. All AI-assisted code changes are verified.*
